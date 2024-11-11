@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92160f4855c1e464ca926eb9dd8bf925, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  lookSensitivity: {x: 2, y: 2}
+  keyBindings:
+  - <Action>k__BackingField: 2
+    keys: 65000000
+    canHold: 0
+  - <Action>k__BackingField: 3
+    keys: 71000000
+    canHold: 0
+  - <Action>k__BackingField: 4
+    keys: 72000000
+    canHold: 0
+  - <Action>k__BackingField: 5
+    keys: 30010000
+    canHold: 0
+  - <Action>k__BackingField: 6
+    keys: 20000000
+    canHold: 0
+  - <Action>k__BackingField: 7
+    keys: 09000000
+    canHold: 0
+  - <Action>k__BackingField: 7
+    keys: 09000000
+    canHold: 0
+  - <Action>k__BackingField: 8
+    keys: 31000000
+    canHold: 0
+  - <Action>k__BackingField: 9
+    keys: 32000000
+    canHold: 0
+  inputAxis2D: {x: 0, y: 0, z: 0}

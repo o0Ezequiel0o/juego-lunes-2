@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acb035a0f5428754b817412996054ccd, type: 3}
+  m_Name: Airstrike
+  m_EditorClassIdentifier: 
+  <BaseCooldownTime>k__BackingField: 1
+  <Damage>k__BackingField: 100
+  <Range>k__BackingField: 10
+  <hitLayers>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 64
+  <ExplosionParticles>k__BackingField: {fileID: 2679427264103682701, guid: c0bdd896b4993c146acc588659e90040, type: 3}
+  <Distance>k__BackingField: 10
+  <EffectDuration>k__BackingField: 0
